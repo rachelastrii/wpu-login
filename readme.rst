@@ -1,10 +1,3 @@
-Steps :
-1. Masukkan semua folder ke xampp/htdocs
-2. Buka xampp lalu aktifkan service Apache dan MySQL
-3. buka browser lalu ketik localhost/(nama folder web anda)
-
-Berikut link demo program website
-
 ###################
 What is CodeIgniter
 ###################
@@ -75,3 +68,9 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+Steps :
+1. Masukkan semua folder ke xampp/htdocs
+2. Buka xampp lalu aktifkan service Apache dan MySQL
+3. buka browser lalu ketik localhost/(nama folder web anda)
+
+Berikut link demo program website
